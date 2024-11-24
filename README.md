@@ -1,5 +1,5 @@
 # Professional Menace
-This is my more serious acount where I try to work on some project every day while looking for a job.
+This is my more serious account where I try to work on some project every day while looking for a job.
 
 ## Programming languages:
 * (Systems): C, C++, Rust, Zig
