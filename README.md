@@ -1,9 +1,9 @@
 # Professional Menace
-* Aspring mathematician
+* Aspiring mathematician
 * Developer
 * Functional programming devotee
 * Formal verification fanatic
-* Category Theory Hobbyist
+* Category theory hobbyist
 * Linux (NixOS) enthusiast
 * LLVM contributor?
 * Gödel's incompleteness enjoyer
