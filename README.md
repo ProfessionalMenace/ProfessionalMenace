@@ -4,7 +4,8 @@
 * Functional programming devotee
 * Formal verification fanatic
 * Category theory hobbyist
-* Linux (NixOS) enthusiast
-* LLVM contributor?
+* Linux enthusiast
+* I use NixOS btw
+* LLVM contributor
 * Gödel's incompleteness enjoyer
 * Catboy
