@@ -9,3 +9,4 @@
 * LLVM contributor
 * Gödel's incompleteness enjoyer
 * Catboy
+* \succcurlyeq \hat{\bullet} \omega  \hat{\bullet} \preccurlyeq
