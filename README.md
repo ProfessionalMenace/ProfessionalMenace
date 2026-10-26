@@ -1,4 +1,5 @@
 # Professional Menace
+* Personal projects at: https://codeberg.org/professional_menace (soon)
 * Aspiring mathematician
 * Developer
 * Functional programming devotee
